@@ -1,2 +1,4 @@
-Git is a distribyted version control system
-Git is free software distributed under the GPL
+A README file 
+
+but, don't read this file!!!!! 
+
